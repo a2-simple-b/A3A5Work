@@ -1,0 +1,9 @@
+Demo Mentor Learning Assistant. - Nearly finished your course, you studied these. Did you enjoy this? No. How about something more creative? 
+*Suggest list of courses that are recommended to the user based on current enrollment OR results*
+
+Reflection. If you enjoyed this heres something similar... if you didnt maybe you should give these a try.
+
+Assets for the video - Programming images etc, typing on keyboard video. 
+
+VIDEO: quick introduction *Spin around on chair* Hi im charles and im part of the development team for simple B
+
