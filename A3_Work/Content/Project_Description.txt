@@ -5,14 +5,15 @@ Overview:
 -------------
 
 Topic :
-We propose to integrate machine learning, in the form of bots, into a fork of the Moodle project to create Mentor. 
+'Machine learning is everywhere you look' (Wong 2020). In particular, the field of human to machine conversational dialog systems, or 'chatbots', has made some substantial breakthroughs in the last decade (Deng. 2018). 
 
-Motivation :
-As students at RMIT Online, we have been using a Virtual Learning Environment (VLE) called Canvas. We have examined the popular platforms in the VLE space. and our team believes that there is an opportunity to disrupt the status quo, improve student experience, and deliver better educational outcomes. 
+Chatbots '...are very sought-after in the customer care domain, where the aim is to complement the live agent experience with an artificial intelligence able to help users fulfil a task.' (Quarteroni 2018, p. 106), but they currently have not been implemented in the online Learning Management System (LMS) space. 
 
 
-Landscape :
-Moodle, Canvas, Blackboard, Brightspace?
+
+
+
+
 
 
 Detailed Description :
@@ -85,3 +86,9 @@ Programmer with PHP experience, with development of Moodle desirable
 
 Group Reflection :
 -----------------------
+
+
+References
+Wong, S. Introduction to Kubeflow. YouTube. 29 March. Google Cloud Platform. viewed 24 August 2020, <https://www.youtube.com/watch?v=cTZArDgbIWw>
+Deng, L. Deep Learning in Natural Language Processing. Singapore: Springer Singapore, 2018. https://doi.org/10.1007/978-981-10-5209-5
+Quarteroni, S. Natural Language Processing for Industry. Informatik Spektrum 41, 105–112 (2018). https://doi-org.ezproxy.lib.rmit.edu.au/10.1007/s00287-018-1094-1
